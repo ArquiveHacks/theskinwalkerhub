@@ -2,11 +2,11 @@
 
 Welcome to **The Skinwalker** Roblox script! This script is designed to enhance your gaming experience in The Skinwalker by providing a range of powerful features. 
 
-![](https://i.imgur.com/2xpGtRa.png)
+![](https://i.imgur.com/EJ0AbdP.png)
 
-## 🎃 Halloween Update 🎃
+## 💀 TS SCRIPT 💀
 
-This script is continuously updated every week to keep up with the latest game changes, including bypassing Anti-Cheat (AC) mechanisms to ensure a seamless gameplay experience.
+This script is continuously updated to keep up with the latest game changes, including bypassing Anti-Cheat (AC) mechanisms to ensure a seamless gameplay experience.
 
 ### Features
 
@@ -24,27 +24,25 @@ This script is continuously updated every week to keep up with the latest game c
 - **FullBright:** Illuminate your surroundings for better visibility.
 
 #### 3. **Teleportation**
-- **Anywhere Teleport:** Instantly travel to any location in the game.
+- **Places Teleport:** Instantly travel to any location in the game.
+- **NPCS Teleport:** Instantly travel to any NPC.
 - **Skinny Teleport:** Teleport at skinny.
 - **Supply Drop Teleport:** Teleport at the Supply Drop
 
 #### 4. **Exploits**
 - **Delete Traps:** Remove traps from your path to ensure safety.
-- **Open Shop:** Access the shop interface at any time.
 - **Infinite Stamina & Power:** Never run out of energy or power.
-- **Bring Scraps:** Collect and bring scraps effortlessly.
-- **No Scraps Delay:** Instantly receive scraps without waiting.
+- **Scraps Farm:** Farm scraps and become rich.
 
 #### 5. **Gamepasses**
 - **Unlock SixthSense:** Gain enhanced awareness of your surroundings.
 - **Headlight:** Activate a powerful light source to navigate dark areas.
 - **VIP Gamepass:** Enjoy exclusive perks and features.
 
-#### 6. **Halloween Update**
-- **No Candies Delay:** Collect candies without any waiting time.
-- **Bring Candies:** Automatically gather candy items.
-- **No Weight:** Carry unlimited items without restrictions.
-- **Candy ESP:** Identify candy locations easily.
+#### 6. **Performance**
+- **Remove Clouds:** Remove all clouds in the game.
+- **Remove Bushes:** Remove all bushes in the game.
+- **Remove Poles:** Remove all poles in the game.
 
 ## How to Use
 
